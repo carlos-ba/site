@@ -1,0 +1,3 @@
+Area:1;Carne:700;Laticinios:650;FLV e Lixo:550;Ante-Camara:500;Preparo:350;Congelados:650;Ultra:850;
+Area:2;Carne:1100;Laticinios:1000;FLV e Lixo:900;Ante-Camara:750;Preparo:550;Congelados:1150;Ultra:1650;
+Area:3;Carne:1500;Laticinios:1350;FLV e Lixo:1200;Ante-Camara:1050;Preparo:750;Congelados:1400;Ultra:1750;
